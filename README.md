@@ -28,7 +28,7 @@ the same SQLite file behind the scenes.
 - [ ] Should have table name as query to follow single entity convention.
 - [ ] Add method to save chart config (e.g. bar vs line vs scatter)
 - [ ] Do the same for a Vector Database with json queries!
-- [ ] Integrate Git API, e.g. a structure to your branches, branch per graph with the name of the graph, auto-merged but labelled as "unverified"
+- [ ] Integrate Git API, e.g. a structure to your branches, branch per graph with the name of the graph, auto-merged but labelled as "unverified". Basically just have one branch which takes everything, and one for accepted content post Pull Request. Find a way to just have a PR with each individual graph as well (same for the transformations). You want to isolate the smallest reasonable change.
 - [ ] Hosted DBT catalogue + UI for the input. 
 
 A self-serve API. Written up in more depth here https://medium.com/p/cd6a9ba8a48f
