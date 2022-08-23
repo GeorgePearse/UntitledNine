@@ -1,6 +1,9 @@
 # Intro
 A tidier approach to ad-hoc analysis.
 
+<img width="335" alt="image" src="https://user-images.githubusercontent.com/47161914/186163542-c00f80e8-569a-4643-ae26-c2c689fe04c1.png">
+
+
 Data Analysis doesn't need to be hard. You can keep things very simple and still
 achieve all of the insights you need while moving fast.
 
